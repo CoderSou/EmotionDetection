@@ -1,2 +1,2 @@
 # EmotionDetection
-Recognizing facial expressions 
+Facial Expression Recognition
